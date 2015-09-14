@@ -5,7 +5,8 @@ The sequence of patterns is both a summary of the language, and at the same time
 And finally, as we shall explain in the next section, this sequence of patterns is also the "base map," from which you can make a language for your own project, by choosing the patterns which are most useful to you, and leaving them more or less in the order that you find them printed here.
 
 ## TOWNS
-	The language begins with patterns that define towns and communities. These patterns can never be designed or built in one fell swoop - but patient piecemeal growth, designed in such a way that every individual act is always helping to create or generate these larger global patterns, will, slowly and surely, over the years, make a community that has these global patterns in it.
+
+The language begins with patterns that define towns and communities. These patterns can never be designed or built in one fell swoop - but patient piecemeal growth, designed in such a way that every individual act is always helping to create or generate these larger global patterns, will, slowly and surely, over the years, make a community that has these global patterns in it.
 
 First, one all important comment about the region as a whole:
  
